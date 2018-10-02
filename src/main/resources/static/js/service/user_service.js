@@ -2,7 +2,7 @@
 
 angular.module('myApp').factory('UserService', ['$http', '$q', function($http, $q){
 
-    var REST_SERVICE_URI = 'https://myapp-myapp.2886795300-80-simba02.environments.katacoda.com/SpringBootHibernateAngular/user/';
+    var REST_SERVICE_URI = 'http://springboot-rolo.10.44.60.208.nip.io/SpringBootHibernateAngular//user/';
 
     var factory = {
         fetchAllUsers: fetchAllUsers,
