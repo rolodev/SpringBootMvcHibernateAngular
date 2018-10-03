@@ -2,7 +2,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
   <head>  
-    <title>Spring Boot Hibernate Angular</title>  
+    <title>Spring Boot Hibernate Angular XX</title>  
     <style>
       .username.ng-valid {
           background-color: lightgreen;
